@@ -16,7 +16,7 @@ metadata:
   creationTimestamp: "2025-09-15T04:58:30Z"
   name: aws-auth
   namespace: kube-system
-  uid: e5c3e4d8-5b6a-4048-9d98-17281b8be801
+  
 
 
 #Mapping IAM user to kubernates user 
